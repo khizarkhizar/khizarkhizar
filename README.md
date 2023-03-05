@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizar
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Angular
+- 🌱 I’m learning and learning
 - 💞️ I’m looking to collaboration
 - 📫 How to reach me khizarrana756@gmail.com
 
